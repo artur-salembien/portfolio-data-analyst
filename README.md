@@ -46,11 +46,10 @@ portfolio-artur-salembien/
 ## Comment visualiser le portfolio
 
 1. Cloner le dépôt sur votre machine :
-Dézipper les dossiers avant utilisation
+https://github.com/artur-salembien/portfolio-data-analyst.git
 
-bash
-git clone https://github.com/artur-salembien/portfolio-data-analyst.git
+2. Dézipper les dossiers avant utilisation
 
-2. Ouvrir les notebooks dans Jupyter Notebook.
+3. Ouvrir les notebooks dans Jupyter Notebook.
 
-3. Exécuter les cellules de haut en bas pour reproduire toutes les analyses et visualisations.
+4. Exécuter les cellules de haut en bas pour reproduire toutes les analyses et visualisations.
