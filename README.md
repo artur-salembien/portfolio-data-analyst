@@ -17,7 +17,6 @@ Bienvenue dans mon portfolio. Ce projet montre mes compétences en **analyse bus
 - Visualisations pour comprendre la répartition des clients.
 - Objectif : Préparer la segmentation client et formuler des recommandations marketing.
 
----
 
 ## Objectifs généraux
 
@@ -26,29 +25,31 @@ Bienvenue dans mon portfolio. Ce projet montre mes compétences en **analyse bus
 - **Présenter les résultats** de façon compréhensible et orientée business.
 - **Démontrer la maîtrise** de Python (Pandas, Matplotlib, Jupyter) et SQL (SQLite).
 
----
 
 ## Organisation des fichiers
 
+```
 portfolio-artur-salembien/
-├── README.md # Ce fichier
+├── README.md
 ├── Projet_python.zip
-├── data/
-│ └── online_retail.csv
+│   └── analysis_performance.ipynb
+│   └── data/
+│       └── online_retail.csv
 └── Projet_SQL.zip
-├── data/
-│ └── online_retail.csv
+    └── segmentation_sql.ipynb
+    └── portfolio2_segmentation.db
+    └── data/
+        └── online_retail.csv
+```
 
-
----
 
 ## Comment visualiser le portfolio
 
 1. Cloner le dépôt sur votre machine :
 Dézipper les dossiers avant utilisation
 
-```bash
-git clone https://github.com/TON_USERNAME/portfolio-data-analyst.git
+bash
+git clone https://github.com/artur-salembien/portfolio-data-analyst.git
 
 2. Ouvrir les notebooks dans Jupyter Notebook.
 
