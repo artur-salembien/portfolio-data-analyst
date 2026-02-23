@@ -10,7 +10,7 @@ Bienvenue ! Voici mes deux projets principaux réalisés en Python et SQL appliq
 Analyser les KPI clés d’un site e-commerce : CA, nombre de transactions, panier moyen, répartition par pays.
 
 🔗 Version RH lisible :
-👉 [Voir l’analyse en HTML](./analysis_performance.html)
+👉 [Voir l’analyse en PDF](./analysis_performance.pdf)
 
 🧩 Compétences :
 Python (Pandas, Matplotlib), analyse exploratoire, interprétation business
@@ -23,7 +23,7 @@ Python (Pandas, Matplotlib), analyse exploratoire, interprétation business
 Segmentation des clients pour identifier les groupes prioritaires pour le marketing.
 
 🔗 Version RH lisible :
-👉 [Voir la segmentation en HTML](./segmentation_sql.html)
+👉 [Voir la segmentation en PDF](./segmentation_sql.pdf)
 
 🧩 Compétences :
 SQL, visualisation des distributions, interprétation des segments
@@ -34,6 +34,8 @@ SQL, visualisation des distributions, interprétation des segments
 - Python, Pandas, Jupyter Notebook  
 - SQL (SQLite)  
 - Data cleaning, EDA, visualisation
+
+## > Les PDFs s’ouvrent directement dans le navigateur, aucun téléchargement ou installation nécessaire.
 
 ---
 
