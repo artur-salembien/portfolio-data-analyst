@@ -1,55 +1,40 @@
-# Portfolio Artur Salembien
+# Portfolio Data Analyst Junior
 
-Bienvenue dans mon portfolio. Ce projet montre mes compétences en **analyse business**, **SQL**, **Python** et **visualisation de données**, appliquées à un dataset e-commerce réel.
+Bienvenue ! Voici mes deux projets principaux réalisés en Python et SQL appliqués à un dataset e-commerce réel.
 
+---
 
-## Contenu du portfolio
+## 🧠 Projet 1 – Analyse de performance business
 
-### Projet 1 – Analyse de performance business (Python)
-- Calcul des KPI globaux : chiffre d’affaires, nombre de transactions, panier moyen, répartition par pays.
-- Gestion des outliers pour des KPI fiables.
-- Visualisations claires pour interprétation business.
-- Objectif : Montrer la capacité à analyser la performance globale d’une entreprise e-commerce.
+🎯 Objectif :
+Analyser les KPI clés d’un site e-commerce : CA, nombre de transactions, panier moyen, répartition par pays.
 
-### Projet 2 – Segmentation client (SQL)
-- Construction d’une table client avec KPI : nombre de transactions, chiffre d’affaires total, panier moyen, première et dernière commande.
-- Analyse des clients : clients réguliers, occasionnels et à forte valeur.
-- Visualisations pour comprendre la répartition des clients.
-- Objectif : Préparer la segmentation client et formuler des recommandations marketing.
+🔗 Version RH lisible :
+👉 [Voir l’analyse en HTML](./analysis_performance.html)
 
+🧩 Compétences :
+Python (Pandas, Matplotlib), analyse exploratoire, interprétation business
 
-## Objectifs généraux
+---
 
-- **Analyser des données réelles** et produire des indicateurs clés.
-- **Structurer un workflow** clair et reproductible.
-- **Présenter les résultats** de façon compréhensible et orientée business.
-- **Démontrer la maîtrise** de Python (Pandas, Matplotlib, Jupyter) et SQL (SQLite).
+## 📊 Projet 2 – Segmentation client
 
+🎯 Objectif :
+Segmentation des clients pour identifier les groupes prioritaires pour le marketing.
 
-## Organisation des fichiers
+🔗 Version RH lisible :
+👉 [Voir la segmentation en HTML](./segmentation_sql.html)
 
-```
-portfolio-artur-salembien/
-├── README.md
-├── Projet_python.zip
-│   └── analysis_performance.ipynb
-│   └── data/
-│       └── online_retail.csv
-└── Projet_SQL.zip
-    └── segmentation_sql.ipynb
-    └── portfolio2_segmentation.db
-    └── data/
-        └── online_retail.csv
-```
+🧩 Compétences :
+SQL, visualisation des distributions, interprétation des segments
 
+---
 
-## Comment visualiser le portfolio
+## 🛠️ Techniques utilisées
+- Python, Pandas, Jupyter Notebook  
+- SQL (SQLite)  
+- Data cleaning, EDA, visualisation
 
-1. Cloner le dépôt sur votre machine :
-https://github.com/artur-salembien/portfolio-data-analyst.git
+---
 
-2. Dézipper les dossiers avant utilisation
-
-3. Ouvrir les notebooks dans Jupyter Notebook.
-
-4. Exécuter les cellules de haut en bas pour reproduire toutes les analyses et visualisations.
+Merci de votre visite !
